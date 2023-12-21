@@ -1,0 +1,5 @@
+const sumar = (a = 10, b = 5) => console.log(a + b)
+sumar()
+sumar(20)
+sumar(20, 10)
+console.log()
